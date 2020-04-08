@@ -34,6 +34,7 @@ Full example output of this pipeline:
         <field name="fulltext_pdf_pt">http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0102-67202014000200138&lng=en&nrm=iso&tlng=pt</field>
         <field name="da">2015-06</field>
         <field name="ab_*">In this editorial, we reflect on the benefits and legacy of the water crisis....</field>
+        <field name="keyword_*"></field>
         <field name="aff_country">Brasil</field>
         <field name="aff_institution">usp</field>
         <field name="sponsor">CNPQ</field>
